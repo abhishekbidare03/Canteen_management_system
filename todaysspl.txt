@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Butter Chicken",
+    "description": "Tender chicken in a rich, creamy tomato sauce",
+    "price": 1078,
+    "imageSrc": "/assets/butterchicken.jpeg",
+    "isVegetarian": false,
+    "category": "Indian"
+  },
+  {
+    "name": "Bibimbap",
+    "description": "Korean mixed rice bowl with vegetables and gochujang",
+    "price": 1244,
+    "imageSrc": "/assets/Bibimbap.jpeg",
+    "isVegetarian": true,
+    "category": "Korean"
+  },
+  {
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with tomato, mozzarella, and basil",
+    "price": 912,
+    "imageSrc": "/assets/Margherita Pizza.jpeg",
+    "isVegetarian": true,
+    "category": "Italian"
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a molten center",
+    "price": 580,
+    "imageSrc": "/assets/Chocolate-Lava-Cake-Feature.jpg",
+    "isVegetarian": true,
+    "category": "Desserts"
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "description": "Spicy stir-fried chicken with peanuts, vegetables, and chili peppers",
+    "price": 995, 
+    "imageSrc": "/assets/kungpao.jpg", 
+    "isVegetarian": false,
+    "category": "Chinese"
+  },
+  {
+    "name": "Mango Lassi",
+    "description": "Refreshing yogurt-based mango smoothie",
+    "price": 330,
+    "imageSrc": "/assets/mangolassi.jpg", 
+    "isVegetarian": true,
+    "category": "Soft Drinks"
+  }
+]

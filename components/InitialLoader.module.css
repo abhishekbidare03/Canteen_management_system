@@ -1,0 +1,25 @@
+@keyframes sea {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes sea-reverse {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animate-sea {
+  animation: sea 10s linear infinite;
+}
+
+.animate-sea-reverse {
+  animation: sea-reverse 15s linear infinite;
+}

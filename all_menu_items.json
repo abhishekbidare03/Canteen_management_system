@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Butter Chicken",
+    "description": "Grilled chicken simmered in a spicy, aromatic, buttery, and creamy tomato gravy.",
+    "price": 450,
+    "imageSrc": "/assets/indian/butter_chicken.jpg",
+    "isVegetarian": false,
+    "category": "Indian"
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "description": "Marinated paneer cheese served in a spiced gravy.",
+    "price": 400,
+    "imageSrc": "/assets/indian/paneer_tikka_masala.jpg",
+    "isVegetarian": true,
+    "category": "Indian"
+  },
+  {
+    "name": "Chole Bhature",
+    "description": "A combination of spicy chickpeas (chole) and fried bread called bhature.",
+    "price": 300,
+    "imageSrc": "/assets/indian/chole_bhature.jpg",
+    "isVegetarian": true,
+    "category": "Indian"
+  },
+  {
+    "name": "Biryani (Chicken)",
+    "description": "A mixed rice dish originating among the Muslims of the Indian subcontinent. Made with Indian spices, rice, and meat (chicken).",
+    "price": 480,
+    "imageSrc": "/assets/indian/chicken_biryani.jpg",
+    "isVegetarian": false,
+    "category": "Indian"
+  },
+  {
+    "name": "Masala Dosa",
+    "description": "A South Indian dish consisting of a thin pancake or crepe made from fermented batter, stuffed with potatoes, onions, and spices.",
+    "price": 250,
+    "imageSrc": "/assets/indian/masala_dosa.jpg",
+    "isVegetarian": true,
+    "category": "Indian"
+  },
+  {
+    "name": "Samosa",
+    "description": "A fried or baked pastry with a savory filling, such as spiced potatoes, onions, peas, or lentils.",
+    "price": 150,
+    "imageSrc": "/assets/indian/samosa.jpg",
+    "isVegetarian": true,
+    "category": "Indian"
+  },
+  {
+    "name": "Bibimbap",
+    "description": "A Korean rice dish topped with assorted vegetables, meat, a fried egg, and gochujang (chili pepper paste).",
+    "price": 420,
+    "imageSrc": "/assets/korean/bibimbap.jpg",
+    "isVegetarian": false,
+    "category": "Korean"
+  },
+  {
+    "name": "Kimchi Jjigae",
+    "description": "A spicy Korean stew made with kimchi and other ingredients, such as pork, seafood, scallions, onions, and diced tofu.",
+    "price": 380,
+    "imageSrc": "/assets/korean/kimchi_jjigae.jpg",
+    "isVegetarian": false,
+    "category": "Korean"
+  },
+  {
+    "name": "Bulgogi",
+    "description": "Thinly sliced, marinated beef grilled on a barbecue or stove-top griddle.",
+    "price": 500,
+    "imageSrc": "/assets/korean/bulgogi.jpg",
+    "isVegetarian": false,
+    "category": "Korean"
+  },
+  {
+    "name": "Tteokbokki",
+    "description": "Stir-fried rice cakes in a spicy gochujang sauce, often with fish cakes and boiled eggs.",
+    "price": 350,
+    "imageSrc": "/assets/korean/tteokbokki.jpg",
+    "isVegetarian": true,
+    "category": "Korean"
+  },
+  {
+    "name": "Japchae",
+    "description": "Sweet potato starch noodles stir-fried with vegetables and meat.",
+    "price": 400,
+    "imageSrc": "/assets/korean/japchae.jpg",
+    "isVegetarian": false,
+    "category": "Korean"
+  },
+  {
+    "name": "Korean Fried Chicken",
+    "description": "Double-fried chicken wings coated in a sweet and spicy sauce or soy garlic sauce.",
+    "price": 460,
+    "imageSrc": "/assets/korean/korean_fried_chicken.jpg",
+    "isVegetarian": false,
+    "category": "Korean"
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "description": "Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",
+    "price": 380,
+    "imageSrc": "/assets/chinese/kung_pao_chicken.jpg",
+    "isVegetarian": false,
+    "category": "Chinese"
+  },
+  {
+    "name": "Mapo Tofu",
+    "description": "Soft tofu set in a spicy sauce, typically thin, oily, and bright red, based on douban (fermented broad bean and chili paste) and douchi (fermented black beans), along with minced meat.",
+    "price": 320,
+    "imageSrc": "/assets/chinese/mapo_tofu.jpg",
+    "isVegetarian": false,
+    "category": "Chinese"
+  },
+  {
+    "name": "Sweet and Sour Pork",
+    "description": "Deep-fried pork pieces tossed in a classic sweet and sour sauce with pineapple and bell peppers.",
+    "price": 400,
+    "imageSrc": "/assets/chinese/sweet_sour_pork.jpg",
+    "isVegetarian": false,
+    "category": "Chinese"
+  },
+  {
+    "name": "Dumplings (Jiaozi)",
+    "description": "Thin pieces of dough wrapped around a filling, usually steamed, boiled, or fried. Fillings vary from pork, shrimp, chicken to vegetables.",
+    "price": 280,
+    "imageSrc": "/assets/chinese/dumplings.jpg",
+    "isVegetarian": false,
+    "category": "Chinese"
+  },
+  {
+    "name": "Spring Rolls",
+    "description": "Crispy fried rolls filled with vegetables or meat.",
+    "price": 220,
+    "imageSrc": "/assets/chinese/spring_rolls.jpg",
+    "isVegetarian": true,
+    "category": "Chinese"
+  },
+  {
+    "name": "Chow Mein",
+    "description": "Stir-fried noodles with vegetables, and often meat or tofu.",
+    "price": 300,
+    "imageSrc": "/assets/chinese/chow_mein.jpg",
+    "isVegetarian": false,
+    "category": "Chinese"
+  },
+  {
+    "name": "Margherita Pizza",
+    "description": "Classic pizza topped with San Marzano tomatoes, mozzarella cheese, fresh basil, salt, and extra-virgin olive oil.",
+    "price": 550,
+    "imageSrc": "/assets/italian/margherita_pizza.jpg",
+    "isVegetarian": true,
+    "category": "Italian"
+  },
+  {
+    "name": "Lasagna Bolognese",
+    "description": "Layers of flat pasta baked with alternating layers of Bolognese sauce, béchamel sauce, and Parmesan cheese.",
+    "price": 600,
+    "imageSrc": "/assets/italian/lasagna_bolognese.jpg",
+    "isVegetarian": false,
+    "category": "Italian"
+  },
+  {
+    "name": "Spaghetti Carbonara",
+    "description": "Pasta dish made with eggs, hard cheese (Pecorino Romano or Parmigiano-Reggiano), cured pork (guanciale or pancetta), and black pepper.",
+    "price": 520,
+    "imageSrc": "/assets/italian/spaghetti_carbonara.jpg",
+    "isVegetarian": false,
+    "category": "Italian"
+  },
+  {
+    "name": "Risotto ai Funghi",
+    "description": "Creamy Italian rice dish cooked with broth until it reaches a creamy consistency, flavored with mushrooms.",
+    "price": 480,
+    "imageSrc": "/assets/italian/risotto_funghi.jpg",
+    "isVegetarian": true,
+    "category": "Italian"
+  },
+  {
+    "name": "Fettuccine Alfredo",
+    "description": "Flat pasta tossed with butter and Parmesan cheese. Often served with chicken or shrimp.",
+    "price": 500,
+    "imageSrc": "/assets/italian/fettuccine_alfredo.jpg",
+    "isVegetarian": true,
+    "category": "Italian"
+  },
+  {
+    "name": "Caprese Salad",
+    "description": "Simple Italian salad, made of sliced fresh mozzarella, tomatoes, and sweet basil, seasoned with salt and olive oil.",
+    "price": 350,
+    "imageSrc": "/assets/italian/caprese_salad.jpg",
+    "isVegetarian": true,
+    "category": "Italian"
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "description": "A decadent chocolate cake with a gooey molten chocolate center.",
+    "price": 300,
+    "imageSrc": "/assets/dessert/chocolate_lava_cake.jpg",
+    "isVegetarian": true,
+    "category": "Desserts"
+  },
+  {
+    "name": "Tiramisu",
+    "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder.",
+    "price": 350,
+    "imageSrc": "/assets/dessert/tiramisu.jpg",
+    "isVegetarian": true,
+    "category": "Desserts"
+  },
+  {
+    "name": "Cheesecake (New York Style)",
+    "description": "Rich and dense cheesecake with a graham cracker crust.",
+    "price": 320,
+    "imageSrc": "/assets/dessert/cheesecake.jpg",
+    "isVegetarian": true,
+    "category": "Desserts"
+  },
+  {
+    "name": "Apple Pie",
+    "description": "Classic American dessert with a flaky crust filled with spiced apples.",
+    "price": 280,
+    "imageSrc": "/assets/dessert/apple_pie.jpg",
+    "isVegetarian": true,
+    "category": "Desserts"
+  },
+  {
+    "name": "Gulab Jamun",
+    "description": "Indian dessert made from milk solids, deep-fried and soaked in sugar syrup.",
+    "price": 200,
+    "imageSrc": "/assets/dessert/gulab_jamun.jpg",
+    "isVegetarian": true,
+    "category": "Desserts"
+  },
+  {
+    "name": "Brownie with Ice Cream",
+    "description": "Warm chocolate brownie served with a scoop of vanilla ice cream.",
+    "price": 250,
+    "imageSrc": "/assets/dessert/brownie_ice_cream.jpg",
+    "isVegetarian": true,
+    "category": "Desserts"
+  },
+  {
+    "name": "Classic Vanilla Milkshake",
+    "description": "Creamy milkshake made with vanilla ice cream and milk.",
+    "price": 180,
+    "imageSrc": "/assets/milkshake/vanilla_milkshake.jpg",
+    "isVegetarian": true,
+    "category": "Milkshake"
+  },
+  {
+    "name": "Chocolate Milkshake",
+    "description": "Rich chocolate milkshake made with chocolate ice cream and milk.",
+    "price": 200,
+    "imageSrc": "/assets/milkshake/chocolate_milkshake.jpg",
+    "isVegetarian": true,
+    "category": "Milkshake"
+  },
+  {
+    "name": "Strawberry Milkshake",
+    "description": "Sweet milkshake made with strawberry ice cream and milk.",
+    "price": 190,
+    "imageSrc": "/assets/milkshake/strawberry_milkshake.jpg",
+    "isVegetarian": true,
+    "category": "Milkshake"
+  },
+  {
+    "name": "Oreo Milkshake",
+    "description": "Milkshake blended with Oreo cookies for a cookies and cream flavor.",
+    "price": 220,
+    "imageSrc": "/assets/milkshake/oreo_milkshake.jpg",
+    "isVegetarian": true,
+    "category": "Milkshake"
+  },
+  {
+    "name": "Mango Milkshake",
+    "description": "Refreshing milkshake made with fresh mangoes or mango pulp.",
+    "price": 210,
+    "imageSrc": "/assets/milkshake/mango_milkshake.jpg",
+    "isVegetarian": true,
+    "category": "Milkshake"
+  },
+  {
+    "name": "Peanut Butter Milkshake",
+    "description": "Creamy milkshake with the nutty flavor of peanut butter.",
+    "price": 230,
+    "imageSrc": "/assets/milkshake/peanut_butter_milkshake.jpg",
+    "isVegetarian": true,
+    "category": "Milkshake"
+  },
+  {
+    "name": "Coca-Cola",
+    "description": "Classic carbonated soft drink.",
+    "price": 60,
+    "imageSrc": "/assets/soft_drink/coca_cola.jpg",
+    "isVegetarian": true,
+    "category": "Soft Drinks"
+  },
+  {
+    "name": "Pepsi",
+    "description": "Popular cola soft drink.",
+    "price": 60,
+    "imageSrc": "/assets/soft_drink/pepsi.jpg",
+    "isVegetarian": true,
+    "category": "Soft Drinks"
+  },
+  {
+    "name": "Sprite",
+    "description": "Lemon-lime flavored carbonated soft drink.",
+    "price": 60,
+    "imageSrc": "/assets/soft_drink/sprite.jpg",
+    "isVegetarian": true,
+    "category": "Soft Drinks"
+  },
+  {
+    "name": "Fanta (Orange)",
+    "description": "Orange-flavored carbonated soft drink.",
+    "price": 60,
+    "imageSrc": "/assets/soft_drink/fanta_orange.jpg",
+    "isVegetarian": true,
+    "category": "Soft Drinks"
+  },
+  {
+    "name": "Mango Lassi",
+    "description": "Traditional Indian yogurt-based drink blended with mango.",
+    "price": 120,
+    "imageSrc": "/assets/soft_drink/mango_lassi.jpg",
+    "isVegetarian": true,
+    "category": "Soft Drinks"
+  },
+  {
+    "name": "Iced Tea (Lemon)",
+    "description": "Chilled tea flavored with lemon.",
+    "price": 100,
+    "imageSrc": "/assets/soft_drink/iced_tea_lemon.jpg",
+    "isVegetarian": true,
+    "category": "Soft Drinks"
+  }
+]

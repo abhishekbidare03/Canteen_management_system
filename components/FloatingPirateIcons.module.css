@@ -1,0 +1,53 @@
+/* FloatingPirateIcons.module.css */
+.iconContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: -1; /* Changed back to -1 */
+  }
+  
+  .icon {
+    position: absolute;
+    font-size: 2rem; /* Adjust size as needed */
+    opacity: 0; /* Adjust opacity */
+    animation: float 15s infinite linear;
+    user-select: none;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+  }
+  
+  /* Define different animation delays and speeds */
+  .icon:nth-child(1) { animation-duration: 13s; animation-delay: -2s; }
+  .icon:nth-child(2) { animation-duration: 17s; animation-delay: -5s; }
+  .icon:nth-child(3) { animation-duration: 14s; animation-delay: -1s; }
+  .icon:nth-child(4) { animation-duration: 16s; animation-delay: -7s; }
+  .icon:nth-child(5) { animation-duration: 18s; animation-delay: -3s; }
+  .icon:nth-child(6) { animation-duration: 12s; animation-delay: -6s; }
+  .icon:nth-child(7) { animation-duration: 15s; animation-delay: -4s; }
+  .icon:nth-child(8) { animation-duration: 19s; animation-delay: -8s; }
+  .icon:nth-child(9) { animation-duration: 11s; animation-delay: 0s; }
+  .icon:nth-child(10) { animation-duration: 20s; animation-delay: -9s; }
+  /* Add more if needed */
+  
+  @keyframes float {
+    0% {
+      /* Start below screen */
+      transform: translateY(100vh) rotate(0deg);
+      opacity: 0;
+    }
+    10% {
+        /* Fade in */
+        opacity: 0.3;
+    }
+    90% {
+        /* Start fading out */
+        opacity: 0.3;
+    }
+    100% {
+      /* End above screen */
+      transform: translateY(-100vh) rotate(720deg);
+      opacity: 0;
+    }
+  }
